@@ -160,7 +160,7 @@ This dashboard helps organizations:
 
 ## 👨‍💻 Author
 
-**Kirthick Pounraj**  
+**Kirthick**  
 🎓 B.Com Business Analytics Student  
 📊 Aspiring Data Analyst
 
